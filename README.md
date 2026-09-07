@@ -35,20 +35,6 @@
 
 ## 📌 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/JoaoVitorAlves-dev/cadastro-ninjas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVitorAlves-dev&repo=cadastro-ninjas&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/JoaoVitorAlves-dev/task-manager-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVitorAlves-dev&repo=task-manager-api&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/JoaoVitorAlves-dev/order-management-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVitorAlves-dev&repo=order-management-api&theme=default&hide_border=true" />
-</a>
-
-</div>
-
 | Projeto | Descrição |
 |---|---|
 | 🍥 **CadastroNinjas** | API de cadastro e missões (tema Naruto) — JPA, Flyway, tratamento de exceções customizado |
