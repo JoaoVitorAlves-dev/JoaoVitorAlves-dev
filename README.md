@@ -17,7 +17,7 @@
 ## 🧭 Sobre mim
 
 - 🎓 Desenvolvedor backend, com foco em **Java** e **Spring Boot**
-- 📍  Santa Catarina — Brasil
+- 📍   Santa Catarina — Brasil
 - 📚 Iniciando graduação em Engenharia de Software em 2027
 - 🔭 Estudando atualmente **Spring Security** e **JWT**
 
