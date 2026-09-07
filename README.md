@@ -37,7 +37,6 @@
 
 ## 📌 Projetos em destaque
 
-<div align="center">
 
 <a href="https://github.com/JoaoVitorAlves-dev/cadastro-ninjas">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVitorAlves-dev&repo=cadastro-ninjas&theme=default&hide_border=true" />
