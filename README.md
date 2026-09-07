@@ -16,12 +16,10 @@
 
 ## 🧭 Sobre mim
 
-- 🎓 Desenvolvedor backend **autodidata**, com foco em **Java** e **Spring Boot**
-- 📍 Curitibanos, Santa Catarina — Brasil
-- 🚀 Em busca de oportunidades como estagiário/desenvolvedor júnior
-- 📚 Iniciando graduação em Engenharia de Software (UNC) em 2027
+- 🎓 Desenvolvedor backend, com foco em **Java** e **Spring Boot**
+- 📍  Santa Catarina — Brasil
+- 📚 Iniciando graduação em Engenharia de Software em 2027
 - 🔭 Estudando atualmente **Spring Security** e **JWT**
-- ⚡ Aprendo fazendo: construo APIs do zero e revejo meu próprio código
 
 <br>
 
@@ -34,9 +32,6 @@
 </div>
 
 <br>
-
-**Boas práticas que aplico**
-> DTO vs. Entity · Exception Handling global (`@RestControllerAdvice`) · Bean Validation · Testes com JUnit 5 & Mockito · Códigos de status HTTP corretos
 
 <br>
 
