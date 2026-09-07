@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6DB33F,00C9A7,0077B5&height=200&section=header&text=Jo%C3%A3o%20Vitor%20Alves&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Java%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+%F0%9F%91%8B;Construindo+APIs+robustas+com+Java;Spring+Boot+%7C+APIs+REST+%7C+Boas+pr%C3%A1ticas" alt="Apresenta%C3%A7%C3%A3o animada" />
-
 <br><br>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
