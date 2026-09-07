@@ -17,7 +17,7 @@
 ## 🧭 Sobre mim
 
 - 🎓 Desenvolvedor backend, com foco em **Java** e **Spring Boot**
-- 📍   Santa Catarina — Brasil
+- 📍  Santa Catarina — Brasil
 - 📚 Iniciando graduação em Engenharia de Software em 2027
 - 🔭 Estudando atualmente **Spring Security** e **JWT**
 
@@ -39,14 +39,14 @@
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO_AQUI/cadastro-ninjas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_AQUI&repo=cadastro-ninjas&theme=default&hide_border=true" />
+<a href="https://github.com/JoaoVitorAlves-dev/cadastro-ninjas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVitorAlves-dev&repo=cadastro-ninjas&theme=default&hide_border=true" />
 </a>
-<a href="https://github.com/SEU_USUARIO_AQUI/task-manager-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_AQUI&repo=task-manager-api&theme=default&hide_border=true" />
+<a href="https://github.com/JoaoVitorAlves-dev/task-manager-api">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVitorAlves-dev&repo=task-manager-api&theme=default&hide_border=true" />
 </a>
-<a href="https://github.com/SEU_USUARIO_AQUI/order-management-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_AQUI&repo=order-management-api&theme=default&hide_border=true" />
+<a href="https://github.com/JoaoVitorAlves-dev/order-management-api">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoVitorAlves-dev&repo=order-management-api&theme=default&hide_border=true" />
 </a>
 
 </div>
@@ -63,12 +63,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=default&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAlves-dev&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVitorAlves-dev&theme=default&hide_border=true" height="165" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAlves-dev&layout=compact&theme=default&hide_border=true" />
 
 </div>
 
