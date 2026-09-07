@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git,github,idea,html,css&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git,github,idea&theme=light" />
 
 </div>
 
