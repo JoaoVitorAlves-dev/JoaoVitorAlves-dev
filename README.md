@@ -1,9 +1,8 @@
-```md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6DB33F,00C9A7,0077B5&height=200&section=header&text=João%20Vitor%20Alves&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Java%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6DB33F,00C9A7,0077B5&height=200&section=header&text=Jo%C3%A3o%20Vitor%20Alves&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Java%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+%F0%9F%91%8B;Construindo+APIs+robustas+com+Java;Spring+Boot+%7C+APIs+REST+%7C+Boas+pr%C3%A1ticas" alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+%F0%9F%91%8B;Construindo+APIs+robustas+com+Java;Spring+Boot+%7C+APIs+REST+%7C+Boas+pr%C3%A1ticas" alt="Apresenta%C3%A7%C3%A3o animada" />
 
 <br><br>
 
@@ -62,25 +61,8 @@
 
 <br>
 
-## 📊 Atividade no GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAlves-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAlves-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=JoaoVitorAlves-dev&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
-
-</div>
-
-<br>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6DB33F,00C9A7,0077B5&height=140&section=footer&text=Obrigado%20pela%20visita!&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=twinkling" />
 
 </div>
-```
