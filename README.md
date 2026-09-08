@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6DB33F,00C9A7,0077B5&height=200&section=header&text=Jo%C3%A3o%20Vitor%20Alves&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Java%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
-
 <br><br>
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
