@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jo%C3%A3o%20Vitor%20Alves&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Java%20Developer&descAlign=55&descSize=20&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jo%C3%A3o%20Vitor%20Alves&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Java%20Developer&descAlign=50&descAlignY=52&descSize=20&animation=fadeIn)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
