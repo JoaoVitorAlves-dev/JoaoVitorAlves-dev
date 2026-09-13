@@ -31,7 +31,7 @@
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | 🏋️ **[Sistema-de-Academia](https://github.com/JoaoVitorAlves-dev/Sistema-de-Academia)** | Sistema de academia com cadastro e gerenciamento de alunos, planos e matrículas. | Java · Spring Boot · PostgreSQL |
-| 🏥 **[Clinica-Medica](https://github.com/JoaoVitorAlves-dev/Clinica-Medica)** | Sistema para gestão de clínica médica. | Java |
+| 🏥 **[Clinica-Medica](https://github.com/JoaoVitorAlves-dev/Clinica-Medica)** | Sistema para gestão de clínica médica. | Java · Spring Boot · PostgreSQL |
 | 👨‍👩‍👧 **[FamiliaDev](https://github.com/JoaoVitorAlves-dev/FamiliaDev)** | Projeto Java em desenvolvimento. | Java |
 
 ## 📫 Contato
