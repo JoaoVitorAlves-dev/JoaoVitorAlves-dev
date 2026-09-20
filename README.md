@@ -11,7 +11,7 @@
 
 </div>
 
-## 🧭 Sobre mim
+## 🧭 Sobre mi
 
 - 🎓 Desenvolvedor backend com foco em **Java** e **Spring Boot**
 - 📍 Santa Catarina — Brasil
