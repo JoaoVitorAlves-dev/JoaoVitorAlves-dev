@@ -31,9 +31,9 @@
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| 🛒 **[E-commerce-funcional]( https://github.com/JoaoVitorAlves-dev/E-commerce-funcional)** | E-commerce funcional. | Java · Spring Boot · PostgreSQL | |
-| 🏋️ **[Sistema-de-Academia]( https://github.com/JoaoVitorAlves-dev/Sistema-de-Academia)** | Sistema de gerenciamento de academia. | Java · Spring Boot · PostgreSQL |
-| 🩺 **[Clinica-Medica](https://github.com/JoaoVitorAlves-dev/Clinica-Medica)** | Sistema de gestão para clínica médica. | Java · Spring Boot · PostgreSQL |
+|  **[E-commerce-funcional]( https://github.com/JoaoVitorAlves-dev/E-commerce-funcional)** | E-commerce funcional. | Java · Spring Boot · PostgreSQL | |
+|  **[Sistema-de-Academia]( https://github.com/JoaoVitorAlves-dev/Sistema-de-Academia)** | Sistema de gerenciamento de academia. | Java · Spring Boot · PostgreSQL |
+|  **[Clinica-Medica](https://github.com/JoaoVitorAlves-dev/Clinica-Medica)** | Sistema de gestão para clínica médica. | Java · Spring Boot · PostgreSQL |
 
 ## 📫 Contato
 
