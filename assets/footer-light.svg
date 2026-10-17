@@ -5,6 +5,5 @@
   <circle cx="50" cy="26" r="6" fill="#000" fill-opacity=".5"/>
   <circle cx="72" cy="26" r="6" fill="#000" fill-opacity=".25"/>
   <text x="40" y="78" font-family="Courier New, monospace" font-size="18" fill="#000" fill-opacity=".6">$ echo "fim"</text>
-  <text x="40" y="125" font-family="Courier New, monospace" font-size="38" font-weight="bold" fill="#000">Obrigado pela visita!</text>
-  <text x="40" y="152" font-family="Courier New, monospace" font-size="18" fill="#000" fill-opacity=".6">$ <tspan>_</tspan></text>
+  <text x="40" y="125" font-family="Courier New, monospace" font-size="38" font-weight="bold" fill="#000">Obrigado pela visita!<tspan fill="#000">_<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
 </svg>
