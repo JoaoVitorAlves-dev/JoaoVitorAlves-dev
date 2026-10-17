@@ -27,7 +27,7 @@
 
 </div>
 
-## 📌 Projetos fixados
+## 📌 Projetos Fixados
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
