@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1500&color=000000&background=FFFFFF&center=true&vCenter=true&width=700&height=120&lines=Jo%C3%A3o+Vitor+Alves;Backend+Java+Developer" />
-
 <img width="100%" src="./assets/header-light.svg" />
 
 </div>
