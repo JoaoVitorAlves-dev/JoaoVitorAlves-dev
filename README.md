@@ -39,4 +39,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=140&section=footer&text=Obrigado%20pela%20visita!&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=twinkling" />
+<img width="100%" src="./assets/footer-light.svg" />
