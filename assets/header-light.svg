@@ -4,7 +4,7 @@
   <circle cx="28" cy="26" r="6" fill="#000" fill-opacity=".9"/>
   <circle cx="50" cy="26" r="6" fill="#000" fill-opacity=".5"/>
   <circle cx="72" cy="26" r="6" fill="#000" fill-opacity=".25"/>
-  <text x="40" y="90" font-family="Courier New, monospace" font-size="18" fill="#000" fill-opacity=".6">$ who am i</text>
-  <text x="40" y="150" font-family="Courier New, monospace" font-size="48" font-weight="bold" fill="#000">João Vitor de Jesus Alves<tspan fill="#000">_<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+  <text x="40" y="90" font-family="Courier New, monospace" font-size="18" fill="#000" fill-opacity=".6">$ whoami</text>
+  <text x="40" y="150" font-family="Courier New, monospace" font-size="40" font-weight="bold" fill="#000">João Vitor de Jesus Alves<tspan fill="#000">_<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
   <text x="40" y="195" font-family="Courier New, monospace" font-size="20" fill="#000" fill-opacity=".7">Backend Java Developer · Spring Boot · APIs REST</text>
 </svg>
