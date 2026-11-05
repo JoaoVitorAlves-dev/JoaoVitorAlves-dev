@@ -9,7 +9,7 @@
 - 🎓 Desenvolvedor backend com foco em **Java** e **Spring Boot**
 - 📍 Santa Catarina — Brasil
 - 📚 Iniciando graduação em Engenharia de Software em 2027
-- 🔭 Estudando atualmente **Java Threads**, **Testes Unitários** e boas práticas para APIs REST
+- 🔭 Estudando atualmente **Java Threads**, **Testes Unitários**, **Amazon AWS** e boas práticas para APIs REST
 - 🚀 Buscando criar soluções escaláveis, seguras e bem estruturadas
 
 ## 🛠️ Stack e ferramentas
