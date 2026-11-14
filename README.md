@@ -27,7 +27,7 @@
 | **[Marketplace-Delivery](https://github.com/JoaoVitorAlves-dev/Marketplace-Delivery)** | Marketplace de delivery multi-restaurante, com autenticação JWT e autorização por roles. | Java · Spring Boot · MySQL |
 | **[E-commerce-funcional](https://github.com/JoaoVitorAlves-dev/E-commerce-funcional)** | E-commerce com catálogo de produtos, carrinho de compras e gestão de pedidos, com autenticação JWT e autorização por roles. | Java · Spring Boot · PostgreSQL |
 | **[Sistema-de-Academia](https://github.com/JoaoVitorAlves-dev/Sistema-de-Academia)** | Sistema de gerenciamento de academia, com controle de alunos, planos e matrículas, com autenticação JWT e autorização por roles. | Java · Spring Boot · PostgreSQL |
-| **[Clinica-Medica](https://github.com/JoaoVitorAlves-dev/Clinica-Medica-Completa)** | construindo... |
+| **[Clinica-Medica](https://github.com/JoaoVitorAlves-dev/Clinica-Medica-Completa)** | API para gestão de clínica, com pacientes, profissionais, consultas, pagamentos e registros clínicos. | Java · Spring Boot · MySQL
 
 ## 📫 Contato
 
