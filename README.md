@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,docker,git,github,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,idea&theme=dark" alt="Java, Spring, Hibernate, Maven, PostgreSQL, MySQL, Docker, Git, GitHub e IntelliJ IDEA" />
 
 </div>
 
