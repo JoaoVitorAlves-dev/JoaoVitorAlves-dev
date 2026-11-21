@@ -27,7 +27,7 @@
 | **[BankFlow](https://github.com/JoaoVitorAlves-dev/BankFlow)** | construindo.. | Java · Spring Boot · PostgreSQL · JWT · ZXing |
 | **[E-commerce-funcional](https://github.com/JoaoVitorAlves-dev/E-commerce-funcional)** | E-commerce com catálogo de produtos, carrinho de compras e gestão de pedidos, com autenticação JWT e autorização por roles. | Java · Spring Boot · PostgreSQL · JWT |
 | **[Sistema-de-Academia](https://github.com/JoaoVitorAlves-dev/Sistema-de-Academia)** | Sistema de gerenciamento de academia, com controle de alunos, planos e matrículas, com autenticação JWT e autorização por roles. | Java · Spring Boot · PostgreSQL · JWT |
-| **[Clinica-Medica](https://github.com/JoaoVitorAlves-dev/Clinica-Medica-Completa)** | API para gestão de clínica, com pacientes, profissionais, consultas, pagamentos e registros clínicos. | Java · Spring Boot · MySQL · JWT
+| **[Clinica-Medica-Completa](https://github.com/JoaoVitorAlves-dev/Clinica-Medica-Completa)** | API para gestão de clínica, com pacientes, profissionais, consultas, pagamentos e registros clínicos. | Java · Spring Boot · MySQL · JWT
 | **[Marketplace-Delivery](https://github.com/JoaoVitorAlves-dev/Marketplace-Delivery)** | Marketplace de delivery multi-restaurante, com autenticação JWT e autorização por roles. | Java · Spring Boot · MySQL · JWT |
 | **[TicketFlow](https://github.com/JoaoVitorAlves-dev/TicketFlow)** | API para gerenciamento de eventos e ingressos, com organizadores, sessões, pedidos, pagamentos, check-in e geração de QR Code. | Java · Spring Boot · MySQL · JWT · ZXing |
 
